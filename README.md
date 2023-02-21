@@ -3,7 +3,7 @@ Este proyecto tiene el proposito de ayudar a una empresa de agua en su logístic
 ![image](https://user-images.githubusercontent.com/38448479/220241674-53e14d34-87ff-4009-9d82-d99b6cecb48a.png)
 
 
-#Manual de instalación 
+# Manual de instalación 
 Para instalar y ejecutar de forma local o desplegar a producción el proyecto se debe seguir los siguientes pasos:
 
 1.-CLonar el repositorio:
@@ -19,7 +19,7 @@ https://github.com/LigiaPerez12/Frontend-Hermes.git
 
 5.- Colocar las credenciales de la base de datos en el archivo de conexión
 
-#Manual de usuario
+# Manual de usuario
 
 En esta sección se comparte un video que muestra a los desarrolladores del sistema y su funcionalidad a detalle:
 
