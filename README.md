@@ -7,6 +7,7 @@ Este proyecto tiene el proposito de ayudar a una empresa de agua en su logístic
 Para instalar y ejecutar de forma local o desplegar a producción el proyecto se debe seguir los siguientes pasos:
 
 1.-CLonar el repositorio:
+
 https://github.com/LigiaPerez12/Frontend-Hermes.git
 
 2.-Tener instalado XAMPP y ejecutando apache y MySQL
