@@ -20,5 +20,7 @@ https://github.com/LigiaPerez12/Frontend-Hermes.git
 5.- Colocar las credenciales de la base de datos en el archivo de conexión
 
 #Manual de usuario
+
 En esta sección se comparte un video que muestra a los desarrolladores del sistema y su funcionalidad a detalle:
+
 https://youtu.be/RJmVIW1fAn4
